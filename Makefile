@@ -1,4 +1,4 @@
 JAVA=javac
 
 compile:
-	${JAVA}
+	${JAVA} Main.java && ${JAVA} -d dist/ *.java

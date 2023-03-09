@@ -1,0 +1,4 @@
+JAVA=javac
+
+compile:
+	${JAVA}

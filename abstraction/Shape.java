@@ -23,4 +23,5 @@ class Rectangle extends Shape {
     // Implementation of the abstract method
     public double area() {
       return width * height;
+    }
 }

@@ -1,7 +1,7 @@
 JAVA=javac
 
 compile:
-	${JAVA} Main.java && ${JAVA} objects/*.java
+	${JAVA} Main.java && ${JAVA} sup/*.java sub/*.java
 
 rm:
 	find . -name "*.class" -type f -delete

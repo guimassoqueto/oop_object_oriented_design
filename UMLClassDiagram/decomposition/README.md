@@ -27,3 +27,11 @@ Composition is often used to model relationships between objects in the real wor
 In Java, composition is typically implemented using instance variables that hold references to other objects, and the contained object is created inside the constructor of the containing object.
 
 ![Composition](composition.png "Composition")
+
+## Multiplicity
+
+In object-oriented programming, multiplicity refers to the number of objects that can be associated with another object in a particular relationship. It is often used to describe the relationship between classes in a UML class diagram.
+
+For example, in a one-to-many relationship, one object of class A can be associated with many objects of class B. In this case, the multiplicity of class B is "many" and the multiplicity of class A is "one".
+
+![Multiplicity](multiplicity.png "Multiplicity")

@@ -1,5 +1,5 @@
 
-## Abstraction
+## Abstraction (Realization)
 
 Abstraction is a fundamental concept in object-oriented programming (OOP) that allows developers to create complex systems by focusing on the essential features and ignoring the details that are not necessary for the task at hand. Abstraction allows developers to create models of complex systems that are easier to understand and modify, leading to more maintainable and efficient code.  
 
